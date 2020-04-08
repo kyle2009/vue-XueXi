@@ -24,4 +24,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### 路由渲染对应的view视图
